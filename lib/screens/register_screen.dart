@@ -61,7 +61,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                  SizedBox(
                    height: 70,
                  ),
-                  Image.asset('assets/images/chat.png',
+                  Image.asset('assets/images/logo.png',
                   height: 180,),
 
                   Row(mainAxisAlignment: MainAxisAlignment.center,
